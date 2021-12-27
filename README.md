@@ -2,7 +2,7 @@
 
 ## Results
 
-> For the Random Oversampling the Balanced Accuracy Score is 0.6620175698580149, as for the high risk performance the precision is 0.01 which is low and recall is 0.72 which is also good. low risk performance assesment for percision is 1.00 (perfect) and reacll is 0.60
+> For the Random Oversampling the Balanced Accuracy Score is 0.6620175698580149, as for the high risk performance the precision is 0.01 which is low and recall is 0.72 which is also good. low risk performance assesment for percision is 1.00 (perfect) and reacall is 0.60
 
 ### SMOTE
 
@@ -70,7 +70,7 @@ recall is great (0.92)
 >low risk performance:
 
 precision is perfect (1.00)
-recall is great (0.94)
+recall is great (0.93)
 
 ### Summary
 > The F1 score can be characterized as a single summary statistic of precision and sensitivity(recall). Given this, the F1 score is a great measurement to gauge model performance. Based on F1 scores the best forming model is the Easy Ensemble Classifier with an average F1 score of 0.97. While the worst performing is Cluster Centroid with an average F1 score of 0.59. Based on performance the Easy Ensemble Classifier model is greatly recommended for assessing credit risk.
